@@ -54,5 +54,11 @@ code.addEventListener("keyup", function(){checkpassword(code.value)
 </script>
 </head>
 <body>
+     <a href="https://munkhtulga0826.github.io/lab7/">bod1<a>
+  <a href="https://munkhtulga0826.github.io/lab7-3/">bod3<a>
+   <a href="https://munkhtulga0826.github.io/lab7-4/">bod4<a>
+    <a href="https://munkhtulga0826.github.io/lab7-5/">bod5<a>
+</body>
+</html>
 </body>
 </html>
