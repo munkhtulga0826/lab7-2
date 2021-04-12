@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <script>
+var code;
+code=window.prompt('code oo oruulna uu');    
 var code
 =document.getElementById("password");
 
